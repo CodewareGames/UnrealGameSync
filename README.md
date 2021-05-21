@@ -6,7 +6,7 @@
 
 ![screenshot](https://docs.unrealengine.com/Images/ProductionPipelines/DeployingTheEngine/UnrealGameSync/QuickStart/UGSQS_Step1_EndResult-2.jpg)
 
-This is a custom version of the MetadataServer (Component of [UnrealGameSync](https://dq8iqaixvew1d.cloudfront.net/en-US/ProductionPipelines/DeployingTheEngine/UnrealGameSync/index.html)) updated to ASP.Net 5 with async/await functionality
+This is a custom version of the MetadataServer (Component of [UnrealGameSync](https://docs.unrealengine.com/en-US/ProductionPipelines/DeployingTheEngine/UnrealGameSync/index.html)) updated to ASP.Net 5 with async/await functionality
 
 Requirements
 ---------------------------
