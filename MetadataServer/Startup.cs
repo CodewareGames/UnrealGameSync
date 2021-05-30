@@ -22,7 +22,7 @@ namespace MetadataServer
         public void ConfigureServices(IServiceCollection services)
         {
 
-            services.AddControllers();
+            services.AddControllers().AddNewtonsoftJson();
             services.Configure<ConnectionStrings>(Configuration.GetSection("ConnectionStrings"));
             services.AddSingleton<IMySqlConnector, MySqlConnector>();
         }
