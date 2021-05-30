@@ -4,7 +4,7 @@
   <br>
 </h1>
 
-![screenshot](https://docs.unrealengine.com/Images/ProductionPipelines/DeployingTheEngine/UnrealGameSync/QuickStart/UGSQS_Step1_EndResult-2.jpg)
+![screenshot](https://docs.unrealengine.com/4.26/Images/ProductionPipelines/DeployingTheEngine/UnrealGameSync/QuickStart/UGSQS_Step1_EndResult-2.webp)
 
 This is a custom version of the MetadataServer (Component of [UnrealGameSync](https://docs.unrealengine.com/en-US/ProductionPipelines/DeployingTheEngine/UnrealGameSync/index.html)) updated to ASP.Net 5 with async/await functionality
 
